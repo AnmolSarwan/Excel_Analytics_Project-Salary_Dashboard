@@ -1,7 +1,7 @@
 # Excel_Analytics_Project-Salary_Dashboard
 Guided project created by me as a way to showcase my excel and analytics skills
 
-##🔎 Business Context
+🔎 Business Context
 
 With the rapid growth of data-related roles (Data Analyst, Business Analyst, Data Scientist, etc.), job seekers and hiring teams need clarity on:
 
@@ -16,7 +16,7 @@ With the rapid growth of data-related roles (Data Analyst, Business Analyst, Dat
 This dashboard analyzes job market data to identify salary trends, demand patterns, and platform dominance.
 
 
-##🎯 Key Business Questions Addressed
+🎯 Key Business Questions Addressed
 
   1. What is the median salary across different job roles?
 (Which roles offer the highest compensation?)
